@@ -9,7 +9,7 @@
     padding: 9px 25px;
     cursor: pointer;
 }
-.slider-bg {
+.slider-bg, .subscribe-bg {
     background-color: #fceae8;
     border-radius: 10px;
 }
